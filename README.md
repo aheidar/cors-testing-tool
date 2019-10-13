@@ -13,3 +13,6 @@ This intial version. V1.0.0
 Make sure to add the http://{app-name}.cloudhub.io to the CORS policy fronting your Mule API's or public allow resources options is more than enough.  
 
 One you deploy the APP to Cloudhub. hit the following URL http://{app-name}.cloudhub.io/cors
+
+
+Please give a feedback and ways to improve or add required features. 
